@@ -1,8 +1,8 @@
 # Hey, I'm Daniel 👋
 
-**Jr Fullstack Developer · PHP / Laravel**
+** Fullstack Developer · PHP / Laravel**
 
-Junior Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
+Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
 
 - 📍 Barcelona, Spain
 - 🌐 [portfolio-flax-nine-55.vercel.app](https://portfolio-flax-nine-55.vercel.app)
