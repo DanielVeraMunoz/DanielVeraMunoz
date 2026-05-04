@@ -1,6 +1,6 @@
 # Hey, I'm Daniel 👋
 
-** Fullstack Developer · PHP / Laravel**
+**Fullstack Developer · PHP / Laravel**
 
 Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
 
