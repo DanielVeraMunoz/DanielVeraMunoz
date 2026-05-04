@@ -61,7 +61,6 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DanielVeraMunoz&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielVeraMunoz&theme=default" alt="Languages"/>
 </p>
 
 ---
