@@ -1,8 +1,8 @@
 # Hey, I'm Daniel 👋
 
-**Fullstack Developer · PHP / Laravel**
+**Jr Fullstack Developer · PHP / Laravel**
 
-Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
+Junior Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
 
 - 📍 Barcelona, Spain
 - 🌐 [portfolio-flax-nine-55.vercel.app](https://portfolio-flax-nine-55.vercel.app)
@@ -60,8 +60,8 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielVeraMunoz&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVeraMunoz&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=DanielVeraMunoz&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielVeraMunoz&theme=default" alt="Languages"/>
 </p>
 
 ---
