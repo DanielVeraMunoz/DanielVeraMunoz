@@ -71,7 +71,7 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DanielVeraMunoz/CorchoAppApi">CorchoApp — API REST</a></h3>
-      <p>REST API for a neighborhood community board. Token-based auth with Laravel Passport (OAuth2), role-based access control, 56 PHPUnit tests and Scribe documentation. Deployed on Railway.</p>
+      <p>REST API for a neighborhood community board. Token-based auth with Laravel Passport (OAuth2), role-based access control, 69 PHPUnit tests and Scribe documentation. Deployed on Railway.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel%2011-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
         <img src="https://img.shields.io/badge/Passport-000000?style=flat-square" alt="Passport"/>
@@ -92,7 +92,7 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DanielVeraMunoz/CorchoAppFront">CorchoApp — Frontend</a></h3>
+      <h3><a href="https://github.com/DanielVeraMunoz/CorchoApiFront">CorchoApp — Frontend</a></h3>
       <p>Mobile-first SPA for CorchoApp. Cork board aesthetic with spring animations, typewriter effects and full API integration via Axios. Deployed on Vercel.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
