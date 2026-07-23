@@ -1,12 +1,25 @@
 # Hey, I'm Daniel 👋
 
-**Fullstack Developer · PHP / Laravel**
+**Software Developer · PHP / Laravel · React · TypeScript**
 
-Fullstack Developer specialised in PHP and Laravel, focused on building clean, well-structured, and functional web applications. Background in digital projects and communication.
+Fullstack Developer specialised in PHP and Laravel, with hands-on experience in a real collaborative project (team of ~15). Over 10 years in the graphic and editorial industry bring process orientation, attention to detail and autonomy.
 
 - 📍 Barcelona, Spain
 - 🌐 [portfolio-flax-nine-55.vercel.app](https://portfolio-flax-nine-55.vercel.app)
 - 📫 dani.vmg91@gmail.com
+
+---
+
+## Professional Experience
+
+### Software Developer · ITA Wiki · Barcelona Activa *(May 2026 - Jul 2026 · Hybrid)*
+
+Fullstack development in a team of 15 people (Scrum Master, Tech Lead): collaborative wiki platform.
+
+- Frontend with React + TypeScript + Vue 3: components, REST integration, tests with Vitest and Testing Library
+- Backend with PHP/Laravel and Node.js/Express, MVC architecture and Contract-First API; tests with Supertest
+- CI/CD pipeline with GitLab CI; code quality with SonarQube, ESLint and Prettier
+- Git Flow on GitHub and GitLab with PRs, code reviews and Kanban board (GitHub Projects) · Scrum
 
 ---
 
@@ -22,19 +35,30 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
     <td>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/API%20REST-6DB33F?style=flat-square" alt="API REST"/>
       <img src="https://img.shields.io/badge/Passport-000000?style=flat-square" alt="Passport"/>
-      <img src="https://img.shields.io/badge/PHPUnit-366EA8?style=flat-square&logo=php&logoColor=white" alt="PHPUnit"/>
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
       <img src="https://img.shields.io/badge/Blade-F05032?style=flat-square&logo=laravel&logoColor=white" alt="Blade"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHPUnit-366EA8?style=flat-square&logo=php&logoColor=white" alt="PHPUnit"/>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+      <img src="https://img.shields.io/badge/Supertest-000000?style=flat-square" alt="Supertest"/>
+      <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library"/>
+      <img src="https://img.shields.io/badge/Scribe-4F46E5?style=flat-square" alt="Scribe"/>
     </td>
   </tr>
   <tr>
@@ -45,23 +69,20 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Deploy</b></td>
+    <td><b>DevOps & Tools</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
+      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/>
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=DanielVeraMunoz&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -70,8 +91,8 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DanielVeraMunoz/CorchoAppApi">CorchoApp — API REST</a></h3>
-      <p>REST API for a neighborhood community board. Token-based auth with Laravel Passport (OAuth2), role-based access control, 69 PHPUnit tests and Scribe documentation. Deployed on Railway.</p>
+      <h3><a href="https://github.com/DanielVeraMunoz/CorchoAppApi">REST API · Corcho</a></h3>
+      <p>REST API for a neighborhood community app. Token-based auth with Laravel Passport (OAuth2), role-based access control, PHPUnit tests and Scribe documentation. Deployed on Railway.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel%2011-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
         <img src="https://img.shields.io/badge/Passport-000000?style=flat-square" alt="Passport"/>
@@ -80,24 +101,25 @@ Fullstack Developer specialised in PHP and Laravel, focused on building clean, w
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DanielVeraMunoz/corchoApp">CorchoApp — MVC</a></h3>
-      <p>Web MVC version of CorchoApp built with Laravel Breeze. Authentication, Eloquent ORM, migrations and responsive UI with TailwindCSS.</p>
+      <h3><a href="https://github.com/DanielVeraMunoz/CorchoApiFront">React SPA · Corcho</a></h3>
+      <p>Mobile-first SPA for CorchoApp. Cork board aesthetic with spring animations, typewriter effect and full REST API integration via Axios. Deployed on Vercel.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Breeze"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Context API"/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DanielVeraMunoz/CorchoApiFront">CorchoApp — Frontend</a></h3>
-      <p>Mobile-first SPA for CorchoApp. Cork board aesthetic with spring animations, typewriter effects and full API integration via Axios. Deployed on Vercel.</p>
+      <h3><a href="https://github.com/DanielVeraMunoz/corchoApp">Laravel MVC · Corcho</a></h3>
+      <p>Web MVC version of CorchoApp with Laravel Breeze authentication, Eloquent ORM, migrations and responsive UI with TailwindCSS.</p>
       <p>
-        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Breeze"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
       </p>
     </td>
     <td width="50%" valign="top">
